@@ -25,7 +25,7 @@ The following SQL functions were used:
 - Sorting/arrangement of data,
 - Querying database to get business data,
 - Filtering of Data in tables with parameters, 
-- 
+- Subquery & Join in Sql.
   
 We have 5 tables that shows day to day datas and transactions of customers purchases from the business database.
 
